@@ -9,11 +9,11 @@ godotengine.org](https://docs.godotengine.org/en/stable/getting_started/step_by_
 With this project, I found that Godot is actually pretty easy to use. This came as a surprise to me as the only other game engine that I have used is Unity. Which in itself has a pretty big learning curve and I have not yet had enough experience with it.This fact makes me super excited for the rest of this class and I hope I get a lot out of it. 
 In terms of any issues I had with Godot, the only problem I ran into was that sometimes you have to save for things to link up. For example, when you have to connect signals from children nodes between 2 scenes, if you do not save then the signal will not show.
 
-[]D-1: Repository Link
+[x]D-1: Repository Link
 [x]C-1: Completed Tutorial
 [x]C-2: Discussion Board Introduction
-[]B-1: .gitignore File
-[]A-1: Project Report Complete
+[x]B-1: .gitignore File
+[x]A-1: Project Report Complete
 
 ## Third-Party Assets
 
